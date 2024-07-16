@@ -1,12 +1,14 @@
-Hey bro 
-want To Connect this bot  with your Whatsapp Number
-
-here is no any cmd
-
-Go and watch Tutorial Video On Tech God Youtube Channel
-
-Note:
-
-Don't forget to subscribe YouTube channel-  Tech God
-
-yt link http://www.youtube.com/@techgod143 🧲 😘 💕
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install git
+pkg install nodejs
+pkg install ffmpeg
+pkg install wget
+pkg install imagemagick
+pkg install yarn
+git clone https://github.com/dark-tech-zone/techgodv6/master
+cd
+yarn install
+npm start
