@@ -11,6 +11,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
+termux-setup-storage
 git clone https://github.com/dark-tech-zone/techgodv6
 cd techgodv6
 yarn install
