@@ -1,5 +1,5 @@
 {
-    "name": "XBug-Bot",
+    "name": "ᵃʸᵉˢʰᵃ ᵇⁱᵇⁱ",
     "version": "6.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "ᵃʸᵉˢʰᵃ ᵇⁱᵇⁱ",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
